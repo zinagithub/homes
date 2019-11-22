@@ -1,0 +1,38 @@
+.logo-p1 {
+	border : 10px solid blue;
+	border-radius: 50%;
+}
+.in-logo{
+	border : 8px solid white;
+	/*width:10px;
+	height:6px;
+	background:#fff;
+	-webkit-transform:skew(-50deg);
+	-moz-transform:skew(-50deg);
+	-o-transform:skew(-50deg);
+	tranform:skew(-50deg);*/
+     
+}
+nav .logo{
+  align-items: center;	
+  display : flex;
+  justify-content: space-between;
+  width : 6%;
+}
+nav {
+	align-items: center;
+	display: flex;
+	font-family: 'Poppins', sans-serif;
+	justify-content : space-between;
+	min-height: 70px;
+	/*background-color: red*/
+}
+nav ul {
+	align-items: center;
+	display : flex;
+	justify-content: space-around;
+	width : 30%;
+}
+nav ul li {
+	list-style : none;
+}

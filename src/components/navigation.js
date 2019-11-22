@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-/*import './navigation.css'*/
+import './navigation.css'
 
 class Navigation extends React.Component {
 
@@ -15,7 +15,13 @@ class Navigation extends React.Component {
     ); 
   	return (
   		 <nav>
-  		    <div className = 'logo'>logo</div>
+  		    <div className = 'logo'>
+            <div className = 'logo-p1'>
+                <div className = 'in-logo'>
+                </div>
+            </div>
+            <h5>logo</h5>
+          </div>
           <ul className="hidden-xs">
             {displayLinks}
           </ul>
