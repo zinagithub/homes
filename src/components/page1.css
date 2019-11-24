@@ -4,9 +4,9 @@
 }
 .inner-part {
 	background-color: #FFF;
-	position : absolute;	
-	height: 300px;	
+	height: 300px;
 	left : 50%;
+	position : absolute;		
 	text-align: center;
 	top : 65%;
 	transform:translate(-50%,-50%);	
@@ -22,13 +22,10 @@
   color : blue;
 }
 .down-inner-part{
-	margin-bottom: 0;
-	margin-left: 0;
-    margin-right: 0;   
-    margin-top: 55px;
+	margin : 55px 0;
 }
 .down-inner-part button:nth-child(1){
-	margin-top: 0px;
+	margin-top: 0;
 	text-align: left;
 	vertical-align: middle;
 	
