@@ -1,9 +1,12 @@
 .logo-p1 {
-	border : 10px solid blue;
+	background: rgb(25,53,198);
+    background: linear-gradient(90deg, rgba(25,53,198,1) 7%, rgba(0,212,255,1) 47%);
 	border-radius: 50%;
+	height: 15px;
+	width:15px;	    
 }
-.in-logo{
-	border : 8px solid white;
+/*.in-logo{
+	border : 8px solid white;*/
 	/*width:10px;
 	height:6px;
 	background:#fff;
@@ -12,12 +15,12 @@
 	-o-transform:skew(-50deg);
 	tranform:skew(-50deg);*/
      
-}
+/*}*/
 nav .logo{
   align-items: center;	
   display : flex;
   justify-content: space-between;
-  width : 6%;
+  width : 8%;
 }
 nav {
 	align-items: center;
@@ -25,7 +28,6 @@ nav {
 	font-family: 'Poppins', sans-serif;
 	justify-content : space-between;
 	min-height: 70px;
-	/*background-color: red*/
 }
 nav ul {
 	align-items: center;

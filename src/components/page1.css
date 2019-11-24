@@ -1,0 +1,45 @@
+.up-part {
+	height: 300px;
+	position : relative;
+}
+.inner-part {
+	background-color: #FFF;
+	position : absolute;	
+	height: 300px;	
+	left : 50%;
+	text-align: center;
+	top : 65%;
+	transform:translate(-50%,-50%);	
+	vertical-align: middle;
+	width : 600px;
+}
+.inner-part h1:nth-child(1) {
+  background-color: #FFF;	
+  padding-top: 60px; 
+}
+.inner-part h1:nth-child(2) {
+  background-color: #FFF;	
+  color : blue;
+}
+.down-inner-part{
+	margin-bottom: 0;
+	margin-left: 0;
+    margin-right: 0;   
+    margin-top: 55px;
+}
+.down-inner-part button:nth-child(1){
+	margin-top: 0px;
+	text-align: left;
+	vertical-align: middle;
+	
+}
+/*.down-inner-part button:nth-child(2){
+   
+}*/
+.down-inner-part button {
+	height: 70px;
+}
+.down-part img{
+	height: 400px;
+	width : 100%;
+}
