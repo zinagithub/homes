@@ -8,18 +8,20 @@
 	left : 50%;
 	position : absolute;		
 	text-align: center;
-	top : 65%;
+	top : 55%;
 	transform:translate(-50%,-50%);	
 	vertical-align: middle;
 	width : 600px;
 }
 .inner-part h1:nth-child(1) {
-  background-color: #FFF;	
+  background-color: #FFF;
+  font-size: 50px;	
   padding-top: 60px; 
 }
 .inner-part h1:nth-child(2) {
   background-color: #FFF;	
-  color : blue;
+  color : #3742fa;
+  font-weight: bold;
 }
 .down-inner-part{
 	margin : 55px 0;
