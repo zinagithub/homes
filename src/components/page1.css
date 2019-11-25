@@ -1,0 +1,44 @@
+.up-part {
+	height: 300px;
+	position : relative;
+}
+.inner-part {
+	background-color: #FFF;
+	height: 300px;
+	left : 50%;
+	position : absolute;		
+	text-align: center;
+	top : 55%;
+	transform:translate(-50%,-50%);	
+	vertical-align: middle;
+	width : 50%;
+}
+.inner-part .question1 {
+  background-color: #FFF;
+  font-size: 50px;	
+  padding-top: 60px; 
+}
+.inner-part .question2 {
+  background-color: #FFF;	
+  color : #3742fa;
+  font-weight: bold;
+}
+.down-inner-part{
+	margin : 55px 0;
+}
+.down-inner-part button:nth-child(1){
+	margin-top: 0;
+	text-align: left;
+	vertical-align: middle;
+	
+}
+/*.down-inner-part button:nth-child(2){
+   
+}*/
+.down-inner-part button {
+	height: 70px;
+}
+.down-part img{
+	height: 400px;
+	width : 100%;
+}
