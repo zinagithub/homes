@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/homes/static/css/main.34ae3acf.chunk.css",
+    "main.js": "/homes/static/js/main.ff648605.chunk.js",
+    "main.js.map": "/homes/static/js/main.ff648605.chunk.js.map",
+    "runtime-main.js": "/homes/static/js/runtime-main.f0959815.js",
+    "runtime-main.js.map": "/homes/static/js/runtime-main.f0959815.js.map",
+    "static/js/2.8e583783.chunk.js": "/homes/static/js/2.8e583783.chunk.js",
+    "static/js/2.8e583783.chunk.js.map": "/homes/static/js/2.8e583783.chunk.js.map",
+    "index.html": "/homes/index.html",
+    "precache-manifest.c9580b05e4efd8361bdce9526ba44bbf.js": "/homes/precache-manifest.c9580b05e4efd8361bdce9526ba44bbf.js",
+    "service-worker.js": "/homes/service-worker.js",
+    "static/css/main.34ae3acf.chunk.css.map": "/homes/static/css/main.34ae3acf.chunk.css.map",
+    "static/media/austin-distel-uPK2TbJlvMQ-unsplash (1).jpg": "/homes/static/media/austin-distel-uPK2TbJlvMQ-unsplash (1).27c60d99.jpg",
+    "static/media/jason-briscoe-AQl-J19ocWE-unsplash.jpg": "/homes/static/media/jason-briscoe-AQl-J19ocWE-unsplash.78ce056d.jpg",
+    "static/media/jesse-roberts-561igiTyvSk-unsplash.jpg": "/homes/static/media/jesse-roberts-561igiTyvSk-unsplash.39ce3ff8.jpg",
+    "static/media/patrick-perkins-3wylDrjxH-E-unsplash.jpg": "/homes/static/media/patrick-perkins-3wylDrjxH-E-unsplash.b08ddcb1.jpg",
+    "static/media/ralph-kayden-2d4lAQAlbDA-unsplash.jpg": "/homes/static/media/ralph-kayden-2d4lAQAlbDA-unsplash.edb502fc.jpg",
+    "static/media/rayyu-maldives-photographer-Qv1HnAeoqHs-unsplash.jpg": "/homes/static/media/rayyu-maldives-photographer-Qv1HnAeoqHs-unsplash.92145339.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0959815.js",
+    "static/js/2.8e583783.chunk.js",
+    "static/css/main.34ae3acf.chunk.css",
+    "static/js/main.ff648605.chunk.js"
+  ]
+}
