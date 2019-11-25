@@ -3,8 +3,8 @@ import Home1 from './images/jesse-roberts-561igiTyvSk-unsplash.jpg';
 import './page1.css';
 
 class Page1 extends React.Component {
-	render () {
-		return (
+    render() {
+      return (
 			<div className = 'page1'>
 			  <div className = 'up-part'>
 			    <div className = 'inner-part'>
