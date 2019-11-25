@@ -13,12 +13,12 @@
 	vertical-align: middle;
 	width : 50%;
 }
-.inner-part h1:nth-child(1) {
+.inner-part .question1 {
   background-color: #FFF;
   font-size: 50px;	
   padding-top: 60px; 
 }
-.inner-part h1:nth-child(2) {
+.inner-part .question2 {
   background-color: #FFF;	
   color : #3742fa;
   font-weight: bold;

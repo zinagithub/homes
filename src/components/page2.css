@@ -11,8 +11,8 @@
 }
 .two-img{
 	display: flex;
-	margin-top: 20px;
 	margin-bottom: 20px;
+	margin-top: 20px;	
 }
 .two-img img {
 	border-radius: 5px;

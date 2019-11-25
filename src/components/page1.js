@@ -8,8 +8,8 @@ class Page1 extends React.Component {
 			<div className = 'page1'>
 			  <div className = 'up-part'>
 			    <div className = 'inner-part'>
-			       <h1>How much my</h1>
-			       <h1>home worth?</h1>
+			       <h1 className='question1'>How much my</h1>
+			       <h1 className='question2'>home worth?</h1>
 			       <div className='row down-inner-part'>
 			         <button className = 'btn btn-default col-sm-8'>Enter your adress...</button>
 			         <button className= 'btn btn-default btn-primary col-sm-4'>Apraise</button>
