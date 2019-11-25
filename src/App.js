@@ -6,6 +6,8 @@ import Page2 from './components/page2';
 import Page3 from './components/page3';
 import Page4 from './components/page4';
 import Page5 from './components/page5';
+import Page6 from './components/page6';
+import Footer from './components/footer';
 import './App.css';
 
 function App() {
@@ -18,6 +20,8 @@ function App() {
         <Page3 />
         <Page4 />
         <Page5 />
+        <Page6 />
+        <Footer />
       </div>
     </Router>
   );

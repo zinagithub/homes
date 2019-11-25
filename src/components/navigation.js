@@ -20,10 +20,13 @@ class Navigation extends React.Component {
             </div>
             <h5>RealAdvisor</h5>
           </div>
-          <ul className="hidden-xs">
+          <ul className="hidden-xs hidden-sm">
             {displayLinks}
           </ul>
-          <div className = 'lang'>En</div>
+          <div className = 'lang'>
+          En
+          <img src="https://img.icons8.com/android/24/000000/sort-down.png" width='10'/>
+          </div>
         </nav>
   		);
   }
