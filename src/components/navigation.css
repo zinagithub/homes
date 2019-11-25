@@ -20,8 +20,13 @@ nav .logo{
   align-items: center;	
   display : flex;
   justify-content: space-between;
-  width : 8%;
+  width : 100px;
 }
+/*@media screen and (max-width: 640px) {
+  nav .logo {
+    width : 25%;
+  }
+}*/
 nav {
 	align-items: center;
 	display: flex;

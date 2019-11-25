@@ -5,11 +5,11 @@ import './page1.css';
 class Page1 extends React.Component {
     render() {
       return (
-			<div className = 'page1'>
-			  <div className = 'up-part'>
+			<div className = 'page1 row'>
+			  <div className = 'up-part col-xs-12'>
 			    <div className = 'inner-part'>
-			       <h1 className='question1'>How much my</h1>
-			       <h1 className='question2'>home worth?</h1>
+			       <p className='question1'>How much my</p>
+			       <p className='question2'>home worth?</p>
 			       <div className='row down-inner-part'>
 			         <button className = 'btn btn-default col-sm-8'>Enter your adress...</button>
 			         <button className= 'btn btn-default btn-primary col-sm-4'>Apraise</button>
@@ -17,7 +17,7 @@ class Page1 extends React.Component {
 			       
                 </div>
               </div>
-              <div className = 'down-part'>
+              <div className = 'down-part row'>
                  <img src={Home1} alt='jesse-roberts-561igiTyvSk-unsplash.jpg' />
                  
               </div>

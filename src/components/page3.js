@@ -6,7 +6,7 @@ import './page2.css';
 function Page3() {
   return (
     <div className="row">
-      <div className="col-xs-6 col-md-6 text-article1">
+      <div className="col-xs-12 col-md-6 text-article1">
         <h1>Sell your land</h1>
         <p>We are always on the lookout land to develop.</p>
         <div className="text1">
@@ -17,7 +17,7 @@ function Page3() {
         <button className="btn btn-default btn-primary find-how-to-sell">Find out how to sell your land</button>
 
       </div>
-      <div className="col-xs-6 col-md-6">
+      <div className="col-xs-12 col-md-6">
         <div>
           <img
             src={land}

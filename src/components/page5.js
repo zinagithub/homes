@@ -14,7 +14,7 @@ function Page5() {
         />
       </div>
       <div className="row">
-        <div className="col-xs-6 col-md-6">
+        <div className="col-xs-12 col-sm-6">
           <div className="text1 ">
             <span>We also manage private sales of</span>
             <span>properties that are not published</span>
@@ -23,7 +23,7 @@ function Page5() {
           </div>
           <button className="btn btn-default btn-primary find-how-to-sell">Find me the best mortgage deal</button>
         </div>
-        <div className="col-xs-6 col-md-6">  
+        <div className="col-xs-12 col-sm-6">  
           <div className="text1 ">
             <span>To that end, we will help you assess</span>
             <span>the right price to pay and also make</span>

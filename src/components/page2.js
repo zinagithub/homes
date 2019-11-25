@@ -16,7 +16,7 @@ class Page2 extends React.Component {
            <span>better deals.</span>
         </div>
         <div className = "row">
-          <div className= 'col-xs-12 col-sm-6'>
+          <div className= 'col-xs-12 col-md-6'>
              <div className= 'row '>
                <img src={Home2} alt='jason-briscoe-AQl-J19ocWE-unsplash.jpg' 
                 width="400"/>
@@ -28,7 +28,7 @@ class Page2 extends React.Component {
                 width="300" className= 'img2'/>
              </div>
           </div>
-          <div className= 'col-xs-12 col-sm-6 text-article1'>
+          <div className= 'col-xs-12 col-md-6 text-article1'>
               <h1>Sell your home</h1>
               <p>Sell your home for more money in less time.</p>
               <div className="text1">

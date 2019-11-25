@@ -13,14 +13,30 @@
 	vertical-align: middle;
 	width : 50%;
 }
+@media screen and (max-width: 768px) {
+	
+    .inner-part .question1 {
+       font-size: 25px!important;
+       font-weight: normal!important; 
+    }
+    .inner-part .question2 {
+       font-size: 15px!important;
+       font-weight: normal;	 
+    }
+    .down-inner-part{
+	   margin : 70px 0;
+   }
+} 
 .inner-part .question1 {
   background-color: #FFF;
-  font-size: 50px;	
+  font-size: 50px;
+  font-weight: bold;	
   padding-top: 60px; 
 }
 .inner-part .question2 {
   background-color: #FFF;	
   color : #3742fa;
+  font-size: 40px;
   font-weight: bold;
 }
 .down-inner-part{
