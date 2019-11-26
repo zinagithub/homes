@@ -13,8 +13,11 @@
 	vertical-align: middle;
 	width : 50%;
 }
-@media screen and (max-width: 768px) {
-	
+
+@media screen and (max-width: 767px) {
+	.inner-part{
+	height: 200px!important;
+ }
     .inner-part .question1 {
        font-size: 25px!important;
        font-weight: normal!important; 
@@ -23,9 +26,13 @@
        font-size: 15px!important;
        font-weight: normal;	 
     }
-    .down-inner-part{
-	   margin : 70px 0;
-   }
+  .down-inner-part {
+	margin: 0!important;
+}
+.down-inner-part button {
+	height: 50px!important;
+	margin-left:20px;
+}
 } 
 .inner-part .question1 {
   background-color: #FFF;
@@ -48,9 +55,7 @@
 	vertical-align: middle;
 	
 }
-/*.down-inner-part button:nth-child(2){
-   
-}*/
+
 .down-inner-part button {
 	height: 70px;
 }

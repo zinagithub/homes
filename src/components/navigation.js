@@ -20,7 +20,7 @@ class Navigation extends React.Component {
             </div>
             <h5>RealAdvisor</h5>
           </div>
-          <ul className="hidden-xs hidden-sm">
+          <ul className="hidden-xs">
             {displayLinks}
           </ul>
           <div className = 'lang'>
