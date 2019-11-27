@@ -4,7 +4,7 @@ import './navigation.css';
 
 class Navigation extends React.Component {
   render() {
-    const arrLinks = ['Home','About','Skills','Projects','Contact'];
+    const arrLinks = ['Valuation','Sell','Buy','Mortgage','More'];
     const navColor = { color : '#212529' };
     const displayLinks = arrLinks.map((val, index) => {
       return <Link to = {'/' + val} style = {navColor} ><li key = {index} >{val}</li></Link>
