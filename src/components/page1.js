@@ -11,8 +11,8 @@ class Page1 extends React.Component {
 			       <p className='question1'>How much my</p>
 			       <p className='question2'>home worth?</p>
 			       <div className='row down-inner-part'>
-			         <button className = 'btn btn-default col-sm-8'>Enter your adress...</button>
-			         <button className= 'btn btn-default btn-primary col-sm-4'>Apraise</button>
+			         <button className = 'btn btn-default col-xs-8'>Enter your adress...</button>
+			         <button className= 'btn btn-default btn-primary col-xs-4'>Apraise</button>
 			       </div>
 			       
                 </div>
