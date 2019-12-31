@@ -11,5 +11,5 @@ Live preview: http://zinagithub.github.io/homes
 
 ## Authors
 
-* **[Zina Talaa]
-* **[Jakub Reis]
+* Zina Talaa
+* Jakub Reis
