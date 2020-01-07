@@ -8,6 +8,7 @@ Live preview: http://zinagithub.github.io/homes
 
 * Bootstrap 3
 * HTML5, CSS3
+* React
 
 ## Authors
 
