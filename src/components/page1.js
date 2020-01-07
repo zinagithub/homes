@@ -8,10 +8,10 @@ class Page1 extends React.Component {
 			<div className = 'page1 row'>
 			  <div className = 'up-part col-xs-12'>
 			    <div className = 'inner-part'>
-			       <p className='question1'>How much my</p>
+			       <p className='question1'>How much is my</p>
 			       <p className='question2'>home worth?</p>
 			       <div className='row down-inner-part'>
-			         <button className = 'btn btn-default col-xs-8'>Enter your adress...</button>
+			         <button className = 'btn btn-default col-xs-8'>Enter your address...</button>
 			         <button className= 'btn btn-default btn-primary col-xs-4'>Apraise</button>
 			       </div>
 			       

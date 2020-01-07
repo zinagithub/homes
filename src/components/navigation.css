@@ -2,15 +2,25 @@
 	background: rgb(25,53,198);
     background: linear-gradient(90deg, rgba(25,53,198,1) 7%, rgba(0,212,255,1) 47%);
 	border-radius: 50%;
-	height: 15px;
-	width:15px;	    
+	height: 18px;
+	width:18px;	 
+	position : relative;   
 }
+.in-logo {
+	background-color: #FFF;
+	height: 8px;
+	position : absolute;
+	left : 25%;
+	top : 25%;
+	transform:skew(-40deg,-10deg);
+	width:8px;
 
+}
 nav .logo{
   align-items: center;	
   display : flex;
   justify-content: space-between;
-  width : 100px;
+  width : 110px;
 }
 
 nav {
