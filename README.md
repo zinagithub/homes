@@ -13,10 +13,9 @@ This project is a clone of [Dribble Real Advisor Homepage Exploration 02](https:
 
 ## Getting Started
 
-  ### Clone the repository
-`     https://github.com/zinagithub/homes.git`
-  ### run it with 
-`     npm start`
+ * Clone the repository : https://github.com/zinagithub/homes.git`
+ * run it with: npm start`
+ 
 ## Built With
 
 * Bootstrap 3
