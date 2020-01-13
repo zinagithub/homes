@@ -11,7 +11,12 @@ This project is a clone of [Dribble Real Advisor Homepage Exploration 02](https:
 
 ![screenshot](https://github.com/zinagithub/homes/blob/master/src/components/images/home2.png)
 
+## Getting Started
 
+  ### Clone the repository
+`     git clone git@github.com:userman95/bookstore.git`
+  ### run it with 
+`     npm start`
 ## Built With
 
 * Bootstrap 3
